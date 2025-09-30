@@ -35,6 +35,6 @@
     "remark-toc": "9.0.0"
   },
   "dependencies": {
-    "@form8ion/commitlint-config": "2.0.7"
+    "@form8ion/commitlint-config": "2.0.8"
   }
 }
